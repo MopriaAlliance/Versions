@@ -9,7 +9,7 @@
     "specifications": [
       { "spec" : "printer-v1.3" , "level" : "audit" }
     ]
-	},
+  },
   {
     "version": "v1.5",
     "releaseDate": "2020-06-03",
