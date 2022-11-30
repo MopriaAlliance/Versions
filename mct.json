@@ -8,6 +8,8 @@
     "issuesUrl": "https://portal.mopria.org/MyWorkGroups/Documents.aspx?Type=Detail&DocumentID=4569",
     "specifications": [
       { "spec" : "printer-v1.3" , "level" : "audit" }
+      { "spec" : "printer-v2.0" , "level" : "audit" }
+      { "spec" : "scanner-v1.2" , "level" : "audit" }
     ]
   },
   {
