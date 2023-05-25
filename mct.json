@@ -1,5 +1,18 @@
 [
   {
+    "version": "v1.7",
+    "releaseDate": "2023-06-30",
+    "requiredDate": "2023-08-30",
+    "downloadUrl": "https://portal.mopria.org/DesktopModules/Inventures_Document/FileDownload.aspx?ContentID=6128",
+    "issuesVersion": "v1",
+    "issuesUrl": "none",
+    "specifications": [
+      { "spec" : "printer-v1.3" , "level" : "audit" },
+      { "spec" : "printer-v2.0" , "level" : "audit" },
+      { "spec" : "scanner-1.2" , "level" : "audit" }
+    ]
+  },
+  {
     "version": "v1.6",
     "releaseDate": "2021-06-30",
     "requiredDate": "2021-08-16",
