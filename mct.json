@@ -10,7 +10,6 @@
       { "spec" : "printer-v1.3" , "level" : "audit" },
       { "spec" : "printer-v2.0" , "level" : "audit" },
       { "spec" : "scanner-1.2" , "level" : "audit" }
-    ]
   },
   {
     "version": "v1.6",
@@ -23,7 +22,6 @@
       { "spec" : "printer-v1.3" , "level" : "audit" },
       { "spec" : "printer-v2.0" , "level" : "audit" },
       { "spec" : "scanner-1.2" , "level" : "audit" }
-    ]
   },
   {
     "version": "v1.5",
