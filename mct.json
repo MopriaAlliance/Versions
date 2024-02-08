@@ -10,7 +10,7 @@
       { "spec" : "printer-v1.3" , "level" : "audit" },
       { "spec" : "printer-v2.0" , "level" : "audit" },
       { "spec" : "scanner-1.2" , "level" : "audit" },
-      { "spec" : "ble-1.0" , "level" : "audit" }
+      { "spec" : "ble-v1.0" , "level" : "audit" }
      ]
   },
   {
