@@ -4,7 +4,7 @@
     "releaseDate": "2024-12-11",
     "requiredDate": "2025-02-01",
     "downloadUrl": "https://portal.mopria.org/DesktopModules/Inventures_Document/FileDownload.aspx?ContentID=1255",
-    "issuesVersion": "v1",
+    "issuesVersion": "v2.0",
     "issuesUrl": "https://portal.mopria.org/MyWorkGroups/Documents.aspx?Type=Detail&DocumentID=4569",
     "specifications": [
       { "spec" : "printer-v1.3" , "level" : "audit" },
